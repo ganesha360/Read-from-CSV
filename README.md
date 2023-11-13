@@ -16,7 +16,7 @@ Increase the maximum nimber of rows to display the entire DataFrame
 ## PROGRAM:
 ```
 Developed by: Ganesh R
-Register no: 22009090
+Register no: 212222240029
 
 import pandas as pd
 df = pd.read_csv("data.csv")
@@ -26,7 +26,8 @@ print("No.of Rows:",len(df.axes[0]))
 print("No.of Columns:",len(df.axes[1]))
 ```
 ## OUTPUT:
-![output](./WhatsApp%20Image%202023-01-26%20at%2013.18.38.jpg)
+![image](https://github.com/ganesha360/Read-from-CSV/assets/120884552/f1015bd4-7113-463c-8435-bea9ab7ee0a4)
+
 
 
 ## RESULT:
